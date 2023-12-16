@@ -1,6 +1,4 @@
-# Bung Yan
-
-Hi there! 👋 I'm Bung Yan, a DevOps Engineer.
+# 👋 Hi there, I'm Bung Yan!
 
 ![My Card](https://cardivo.vercel.app/api?name=Bung%20Yan&description=Hi,%20I'm%20a%20DevOps%20Engineer.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=instagram=Bungyan&linkedin=Dian%20Pratama&github=bungyan-cyber&pattern=topography&colorPattern=%23eaeaea)
 
@@ -18,7 +16,7 @@ Hi there! 👋 I'm Bung Yan, a DevOps Engineer.
 </div>
 
 <details>
-  <summary>My GitHub Stats</summary>
+  <summary>My GitHub Stats 📈</summary>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadhila36&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
   
@@ -30,7 +28,7 @@ Hi there! 👋 I'm Bung Yan, a DevOps Engineer.
 </details>
 
 <details>
-  <summary>My Wakatime Breakdown</summary>
+  <summary>My Wakatime Breakdown ⏱️</summary>
 
   <p align="center">
     ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadhila36&layout=compact&theme=vue)
