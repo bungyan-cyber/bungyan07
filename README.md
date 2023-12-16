@@ -1,8 +1,8 @@
-![My card name](https://cardivo.vercel.app/api?name=Dian%20Pratama%20Bung%20Yan&description=Hi,%20I'm%20a%20Dev%20Ops%20Engineer.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/37483304?v=4&backgroundColor=%23ecf0f1&instagram=Fadhila36&linkedin=M%20Dian%20Pratama%20Bungyan&github=bungyan-cyber&pattern=topography&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Dian%20Pratama%20Bung%20Yan&description=Hi,%20I'm%20a%20Dev%20Ops%20Engineer.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/37483304?v=4&backgroundColor=%23ecf0f1&instagram=Bungyan&linkedin=Dian%20Pratama%20Bungyan&github=bungyan-cyber&pattern=topography&colorPattern=%23eaeaea)
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Fadhila36&label=VIEWS&style=plastic&color=lightgrey" />
+    <img src="https://komarev.com/ghpvc/?username=bungyan-cyber&label=VIEWS&style=plastic&color=lightgrey" />
   </p>
   <br/> 
   
